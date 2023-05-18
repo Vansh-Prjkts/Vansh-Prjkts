@@ -1,6 +1,6 @@
 <h1 align="center"> 🫰 Welcome to my github 🖐</h1>
 <h3 align="center">Hi I'm Vansh Chaudhary A passionate Android Developer from India</h3>
-<h2 align="center">I'm official maintainer of </h2>
+<h2 align="center">official maintainer of </h2>
 <table align="center">
   <tr>
     <td><b><a href="https://github.com/CherishOS/android_manifest">Cherish OS</a></b></td>
