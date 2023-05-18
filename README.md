@@ -36,7 +36,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/vansh_chaudhary08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vansh_chaudhary08" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vansh_chaudhary08/"><img align="center" src="https://img.icons8.com/color/48/null/instagram-new--v1.png"></a>
+<a href="https://t.me/vanshprojects"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/telegram.png" height="40" width="40" /></a>
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansh-prjkts" alt="vansh-prjkts" /></a> </p>
 
