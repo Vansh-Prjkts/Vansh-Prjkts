@@ -1,6 +1,22 @@
-<h1 align="center">Hi 👋, I'm Vansh Chaudhary</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
-
+<h1 align="center"> 🫰 Welcome to my github 🖐</h1>
+<h3 align="center">Hi I'm Vansh Chaudhary A passionate Android Developer from India</h3>
+<h2 align="center">I'm official maintainer of </h2>
+<table align="center">
+  <tr>
+    <td><b><a href="https://github.com/CherishOS/android_manifest">Cherish OS</a></b></td>
+    <td> for </td>
+    <td><b><a href="https://www.realme.com/in/realme-3-pro">Realme 3 Pro</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/AlphaDroid-Project/manifest">AlphaDroid</a></b></td>
+    <td> for </td>
+    <td><b><a href="https://www.realme.com/in/realme-3-pro">Realme 3 Pro</a></b></td>
+  </tr>
+     <td><b><a href="https://github.com/ProjectBlaze/manifest">Project Blaze</a></b></td>
+    <td> for </td>
+    <td><b><a href="https://www.realme.com/in/realme-3-pro">Realme 3 Pro</a></b></td>
+  </tr>
+</table>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-prjkts&label=Profile%20views&color=0e75b6&style=flat" alt="vansh-prjkts" /> </p>
@@ -12,6 +28,11 @@
 - 📫 How to reach me **ayanc2244@gmail.com**
 
 - ⚡ Fun fact **I think I am funny 😅**
+<h2 align="left">Here are my projects that I have worked on:</h2>
+<p>✅ <b><a href="https://github.com/CherishOS">Cherish OS</a></b><strong> (🟢Official)</strong></p>
+<p>✅ <b><a href="https://github.com/AlphaDroid-Project">AlphaDroid</a></b><strong> (🟢Official)</strong></p>
+<p>✅ <b><a href="https://github.com/ProjectBlaze">Project Blaze</a></b><strong> (🟢Official)</strong></p>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
