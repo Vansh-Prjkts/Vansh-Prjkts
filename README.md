@@ -89,8 +89,8 @@
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vansh-prjkts&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="vansh-prjkts" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vansh-prjkts&show_icons=true&theme=radical&locale=en&layout=compact" alt="vansh-prjkts" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vansh-prjkts&show_icons=true&theme=highcontrast&locale=en" alt="vansh-prjkts" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vansh-prjkts&show_icons=true&theme=radical&locale=en" alt="vansh-prjkts" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh-prjkts&theme=highcontrast" alt="vansh-prjkts" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh-prjkts&theme=radical" alt="vansh-prjkts" /></p>
