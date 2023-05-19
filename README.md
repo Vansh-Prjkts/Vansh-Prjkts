@@ -40,7 +40,13 @@
 <a href="https://t.me/vanshprojects"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/telegram.png" height="40" width="40" /></a>
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansh-prjkts" alt="vansh-prjkts" /></a> </p>
-
+<!--Devices Section-->
+<h2><b>My Devices</b></h2>
+<ul>
+  <li><a href="https://www.realme.com/global/realme-gt-master-edition/"><img align="center" src="https://static.realme.net/v3/common/images/toApp-overseas-25892ede38.png" height="40" width="40" /><b> Realme GT Master Edition (lunaa)</b></a></li>
+  <li><a href="https://www.realme.com/in/realme-3-pro"><img align="center" src="https://static.realme.net/v3/common/images/toApp-overseas-25892ede38.png" height="40" width="40" /><b> Realme 3 Pro (RMX1851)</b></a></li>
+</ul>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center" style="display:block;">
