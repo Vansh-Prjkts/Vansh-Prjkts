@@ -33,13 +33,12 @@
 <p>✅ <b><a href="https://github.com/AlphaDroid-Project">AlphaDroid</a></b><strong> (🟢Official)</strong></p>
 <p>✅ <b><a href="https://github.com/ProjectBlaze">Project Blaze</a></b><strong> (🟢Official)</strong></p>
 <br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/vansh_chaudhary08/"><img align="center" src="https://img.icons8.com/color/48/null/instagram-new--v1.png"></a>
 <a href="https://t.me/vanshprojects"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/telegram.png" height="40" width="40" /></a>
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansh-prjkts" alt="vansh-prjkts" /></a> </p>
+
 <!--Devices Section-->
 <h2><b>My Devices</b></h2>
 <ul>
@@ -47,7 +46,6 @@
   <li><a href="https://www.realme.com/in/realme-3-pro"><img align="center" src="https://static.realme.net/v3/common/images/toApp-overseas-25892ede38.png" height="40" width="40" /><b> Realme 3 Pro (RMX1851)</b></a></li>
 </ul>
 <br>
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
@@ -83,20 +81,4 @@
 </div>
 <br>
 <br>
-<!-- Statistics -->
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vansh-prjkts&show_icons=true&theme=radical&locale=en&layout=compact" alt="vansh-prjkts" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vansh-prjkts&show_icons=true&theme=radical&locale=en" alt="vansh-prjkts" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh-prjkts&theme=radical" alt="vansh-prjkts" /></p>
