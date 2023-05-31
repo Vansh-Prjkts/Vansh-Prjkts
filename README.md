@@ -3,10 +3,7 @@
 <h2 align="center">official maintainer of </h2>
 <table align="center">
   <tr>
-    <td><b><a href="https://github.com/CherishOS/android_manifest">Cherish OS</a></b></td>
-    <td> for </td>
-    <td><b><a href="https://www.realme.com/in/realme-3-pro">Realme 3 Pro</a></b></td>
-  </tr>
+  
   <tr>
     <td><b><a href="https://github.com/AlphaDroid-Project/manifest">AlphaDroid</a></b></td>
     <td> for </td>
@@ -29,7 +26,6 @@
 
 - ⚡ Fun fact **I think I am funny 😅**
 <h2 align="left">Here are my projects that I have worked on:</h2>
-<p>✅ <b><a href="https://github.com/CherishOS">Cherish OS</a></b><strong> (🟢Official)</strong></p>
 <p>✅ <b><a href="https://github.com/AlphaDroid-Project">AlphaDroid</a></b><strong> (🟢Official)</strong></p>
 <p>✅ <b><a href="https://github.com/ProjectBlaze">Project Blaze</a></b><strong> (🟢Official)</strong></p>
 <br>
