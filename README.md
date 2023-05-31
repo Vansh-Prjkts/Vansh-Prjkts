@@ -28,7 +28,6 @@
 <h2 align="left">Here are my projects that I have worked on:</h2>
 <p>✅ <b><a href="https://github.com/AlphaDroid-Project">AlphaDroid</a></b><strong> (🟢Official)</strong></p>
 <p>✅ <b><a href="https://github.com/ProjectBlaze">Project Blaze</a></b><strong> (🟢Official)</strong></p>
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/vansh_chaudhary08/"><img align="center" src="https://img.icons8.com/color/48/null/instagram-new--v1.png"></a>
