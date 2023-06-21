@@ -5,6 +5,10 @@
   <tr>
   
   <tr>
+      <td><b><a href="https://github.com/ArrowOS/android_manifest">Arrow OS</a></b></td>
+    <td> for </td>
+    <td><b><a href="https://www.realme.com/in/realme-3-pro">Realme 3 Pro</a></b></td>
+  </tr>
     <td><b><a href="https://github.com/AlphaDroid-Project/manifest">AlphaDroid</a></b></td>
     <td> for </td>
     <td><b><a href="https://www.realme.com/in/realme-3-pro">Realme 3 Pro</a></b></td>
@@ -26,6 +30,7 @@
 
 - ⚡ Fun fact **I think I am funny 😅**
 <h2 align="left">Here are my projects that I have worked on:</h2>
+<p>✅ <b><a href="https://github.com/ArrowOS">Arrow OS</a></b><strong> (🟢Official)</strong></p>
 <p>✅ <b><a href="https://github.com/AlphaDroid-Project">AlphaDroid</a></b><strong> (🟢Official)</strong></p>
 <p>✅ <b><a href="https://github.com/ProjectBlaze">Project Blaze</a></b><strong> (🟢Official)</strong></p>
 <h3 align="left">Connect with me:</h3>
