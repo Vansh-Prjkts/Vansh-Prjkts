@@ -1,6 +1,6 @@
 <h1 align="center"> 🫰 Welcome to my github 🖐</h1>
 <h3 align="center">Hi I'm Vansh Chaudhary A passionate Android Developer from India</h3>
-<h2 align="center">official maintainer of </h2>
+<h2 align="center">Ex maintainer of </h2>
 <table align="center">
   <tr>
   
@@ -28,11 +28,10 @@
 
 - 📫 How to reach me **ayanc2244@gmail.com**
 
-- ⚡ Fun fact **I think I am funny 😅**
 <h2 align="left">Here are my projects that I have worked on:</h2>
-<p>✅ <b><a href="https://github.com/ArrowOS">Arrow OS</a></b><strong> (🟢Official)</strong></p>
-<p>✅ <b><a href="https://github.com/AlphaDroid-Project">AlphaDroid</a></b><strong> (🟢Official)</strong></p>
-<p>✅ <b><a href="https://github.com/ProjectBlaze">Project Blaze</a></b><strong> (🟢Official)</strong></p>
+<p>✅ <b><a href="https://github.com/ArrowOS">Arrow OS</a></b><strong> (🔴Discontinued)</strong></p>
+<p>✅ <b><a href="https://github.com/AlphaDroid-Project">AlphaDroid</a></b><strong> (🔴Discontinued)</strong></p>
+<p>✅ <b><a href="https://github.com/ProjectBlaze">Project Blaze</a></b><strong> (🔴Discontinued)</strong></p>
 <p>✅ <b><a href="https://github.com/CherishOS">Cherish OS</a></b><strong> (🔴Discontinued)</strong></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
